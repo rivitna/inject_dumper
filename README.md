@@ -23,6 +23,6 @@ Get memory dumps process injection:
 Portable Executable Injection (T1055.002), Process Hollowing (T1055.012)  
 
 Usage:  
-injector_dump target_file <command line arguments>  
+injector_dump target_file \[command line arguments\]
 
 **Run only in VM!**  
