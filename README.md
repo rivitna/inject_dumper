@@ -23,3 +23,5 @@ Dumps process injection: Portable Executable Injection (T1055.002), Process Holl
 
 Usage:  
 injector_dump target_file <command line arguments>  
+
+Run only in VM!  
