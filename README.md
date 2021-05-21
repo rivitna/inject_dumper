@@ -1,5 +1,5 @@
 # inject_dumper
-Log API functions:  
+Hook and log API functions:  
 NtResumeThread  
 NtGetContextThread  
 NtSetContextThread  
@@ -19,7 +19,8 @@ WriteProcessMemory
 GetAdaptersInfo  
 ShellExecuteExW  
   
-Dumps process injection: Portable Executable Injection (T1055.002), Process Hollowing (T1055.012)  
+Get memory dumps process injection:  
+Portable Executable Injection (T1055.002), Process Hollowing (T1055.012)  
 
 Usage:  
 injector_dump target_file <command line arguments>  
