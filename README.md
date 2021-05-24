@@ -1,4 +1,7 @@
-# inject_dumper
+# inject_dumper  
+  
+PE deobfuscator/dumper  
+  
 Hook and log API functions:  
 NtResumeThread  
 NtGetContextThread  
