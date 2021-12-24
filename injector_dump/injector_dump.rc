@@ -1,0 +1,9 @@
+#define WIN32_LEAN_AND_MEAN  // Exclude rarely-used stuff from Windows headers
+#include <windows.h>
+#include "Resource.h"
+
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+#pragma code_page(1252)
+
+
+ID_BINDATA	ID_BINARY_TYPE  DISCARDABLE     "..\\Release\\injector_hook.dll"
